@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @papin96
+- 👀 I’m interested in solidity security researching
+- 🌱 I’m currently learning solidity
+- 📫 How to reach me @0xmilli on X
